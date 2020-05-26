@@ -1,0 +1,30 @@
+{
+  "id": "1832695",
+  "name": "XYYKT",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8180208",
+      "name": "错误",
+      "font_class": "cuowu",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    },
+    {
+      "icon_id": "8180225",
+      "name": "正确",
+      "font_class": "zhengque",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "6227803",
+      "name": "编辑",
+      "font_class": "bianji",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    }
+  ]
+}
